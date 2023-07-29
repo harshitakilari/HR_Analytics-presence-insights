@@ -1,4 +1,5 @@
 # HR_Analytics-presence-insights
+
 This is a project series from the youtube channel code basics where real data from AtliQ company is taken. Data Cleaning and Transformation are done Dynamically, learned to use Power BI and Matrics, and created a report to create insights for HR managers or Stakeholders.
 
 **Dataset**
@@ -29,6 +30,7 @@ The objective of the company is to understand the working preference of people i
    ![Final_data_table](https://github.com/harshitakilari/HR_Analytics-presence-insights/assets/108713558/3d5ab074-6863-4bd5-984b-7dcc3c969d09)
 
 **Final_Report**
+
 ![Presence_Dashboard](https://github.com/harshitakilari/HR_Analytics-presence-insights/assets/108713558/4e5bd48a-e3d2-4a50-93c5-e600498a745b)
 
 **Insights_drawn**
@@ -37,7 +39,7 @@ The objective of the company is to understand the working preference of people i
 * On Tuesdays the presence percentage is maximum.
 *  As June is approaching the Presence percentage is declining as the trend in sick leaves percentage is increased.
 
-**What****I****Learned**
+**What** **I** **Learned**
 
 * Basics of Power BI and its metrics.
 * Calculating functions in DAX.
